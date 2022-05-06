@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redonelach1
+- 👋 Hi, I’m @redonelach1 ( Redone Lachgar ) 
 - 👀 I’m generally interested in computer science and particularly A.I
 - 💞️ I would like  to collaborate on any beginner friendly project that will help me grow :D
 - 📫 How to reach me :
