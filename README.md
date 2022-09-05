@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=redonelach1&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redonelach1&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redonelach1&layout=compact&theme=gruvbox&count_private=true" />
 </div>
