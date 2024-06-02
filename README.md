@@ -2,7 +2,7 @@
 - 👀 I’m generally interested in computer science and particularly A.I
 - 💞️ I would like to collaborate on any beginner friendly project that will help me grow my skills up :D
 - 📫 How to reach me :
--     email : lachgarredone@gmail.com
+-     email : -
 
 <!---
 redonelach1/redonelach1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
