@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @redonelach1 ( Redone Lachgar ) 
 - 👀 I’m generally interested in computer science and particularly A.I
-- 💞️ I am ready to collaborate on any project that will help me grow my skills up :D
 - 📫 How to reach me :
 -     email : lachgarredone@gmail.com
 
