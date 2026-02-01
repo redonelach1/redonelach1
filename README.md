@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## Professional Summary
 
 Engineering student specialized in **Data Science, Artificial Intelligence**, with a strong focus on **Data Engineering**.
 
@@ -15,7 +15,7 @@ Background in **data platforms, backend systems, and applied machine learning**,
 
 ---
 
-## 🧠 Core Stack
+## Core Stack
 
 ### 💻 Programming
 <p>
@@ -91,5 +91,3 @@ Background in **data platforms, backend systems, and applied machine learning**,
 </p>
 
 ---
-
-📌 *Open to internships (PFA / PFE) and entry-level roles in **Data Engineering**, **Analytics Engineering**, and **AI Engineering**.*
