@@ -7,7 +7,7 @@
 
 ---
 
-## Professional Summary
+## Professional Summary 
 
 Engineering student specialized in **Data Science, Artificial Intelligence**, with a strong focus on **Data Engineering**.
 
