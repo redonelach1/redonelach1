@@ -70,7 +70,7 @@ Background in **data platforms, backend systems, and applied machine learning**,
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redonelach1&show_icons=true&theme=default" />
+![](https://github-readme-stats.vercel.app/api?username=redonelach1&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </p>
 
 <p align="center">
